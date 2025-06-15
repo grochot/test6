@@ -4,3 +4,5 @@ To jest pierwszy commit.
 
 To jest drugi commit
 
+#Komentarz
+
